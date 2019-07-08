@@ -20,6 +20,11 @@ secondName = 'jose';
 io.write("size of firstname is: ", #name, " and the size of the second name is: ", #secondName, "\n");
 
 --type methods return the variable type
-print(type(name));
+
+isAbletodrive = false
+
+print(type(name), type(isAbletodrive));
+
+
 
 
